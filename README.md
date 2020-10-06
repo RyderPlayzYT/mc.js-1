@@ -97,3 +97,4 @@ After these commands, visit `localhost:3000`
 - [Resource Pack Used](http://www.9minecraft.net/paper-cut-resource-pack/)
 - [Multiplayer Player Mesh](https://github.com/bs-community/skinview3d)
 - [Home Page Panorama Library](https://pannellum.org)
+[![Run on Repl.it](https://repl.it/badge/github/ian13456/mc.js-1)](https://repl.it/github/ian13456/mc.js-1)
